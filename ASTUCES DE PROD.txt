@@ -1,0 +1,37 @@
+Visio Zoom "trucs et astuces" PRODUCTION
+
+LES STRUCTURES : 
+
+1 : Découper la track en plusierus partie 
+
+Praparation session 
+
+2 : Les fader -12 -18
+le buffer 
+le fréquence enchantillonage
+
+LES TRANSITIONS : 
+
+RISER (monté en pression)
+Bruit blanc
+Couper sons (silence)
+Solo sur drums (break)
+Longue reveb 
+Reverse reverb
+
+AUTRES
+
+Changer d'octave 
+Les silences
+Le layering
+L'aprégiator
+Quantification / Swing 
+MIXED IN KEY
+le sampler
+les glides
+Les fondus
+penser au mix au moment de la compo 
+
+
+LES VST instruments
+
